@@ -1,0 +1,1 @@
+This is my paragraph. I am writing it inside a file using Git Bash.
